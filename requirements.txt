@@ -1,9 +1,9 @@
 streamlit==1.37.0
 earthengine-api==0.1.401
-geemap==0.30.4
-folium==0.14.0
+geemap==0.32.1
+folium==0.15.1
 xyzservices==2023.7.0
-python-box==6.0.2
+python-box==7.1.1
 geopandas==0.14.4
 pandas==2.2.2
 numpy==1.26.4
