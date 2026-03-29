@@ -1,7 +1,12 @@
+--only-binary=:all:
+
 streamlit==1.33.0
 earthengine-api==0.1.401
 geemap==0.32.0
+
 pandas==2.2.2
+numpy==1.26.4
+
 folium==0.16.0
 xyzservices==2023.10.1
 python-box==7.1.1
